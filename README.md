@@ -1,2 +1,4 @@
 # dsmp2.0
-This is an expiremantle repo for ML projects
+This is an experimental repo for ML projects
+
+This is the first change we are making.
